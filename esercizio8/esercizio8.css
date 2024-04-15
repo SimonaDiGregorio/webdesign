@@ -1,0 +1,14 @@
+body {
+    font-family: "Roboto", sans-serif;
+    peso del carattere: 400;
+    stile del carattere: normale;
+   }
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+#img-div {
+    text-align: center;
+}
